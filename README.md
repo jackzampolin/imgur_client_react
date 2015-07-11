@@ -5,7 +5,7 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 
 ```
 	> git clone git@github.com:StephenGrider/ReactStarter.git
-	> cd ReactStarter
+	> cd imgur_react_client
 	> npm install
 	> gulp
 ```
